@@ -1,0 +1,4 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/ChainedBehavior/Editor/ChainedBehaviorEditor.uss?fileID=7433441132597879392&amp;guid=1664368c7416aea4e96e5a6d686683d7&amp;type=3#ChainedBehaviorEditor" />
+    <ChainedBehavior.Editor.ChainedBehavior style="flex-grow: 1;" />
+</engine:UXML>
